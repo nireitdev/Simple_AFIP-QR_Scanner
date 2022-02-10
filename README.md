@@ -7,4 +7,5 @@ Se necesitan las librerias ZXing para Delphi:  https://github.com/Spelt/ZXing.De
 
 No proveo ningun archivo ejecutable.
 
-![imagen](https://user-images.githubusercontent.com/85206635/153480452-fdb5a5de-c13c-4c37-b0f1-097f15f81dba.png)
+![imagen](https://user-images.githubusercontent.com/85206635/153482572-4259ce95-ab8b-44ae-9b34-e4a3ce4919a5.png)
+
